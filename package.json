@@ -1,0 +1,6 @@
+{
+    "name": "Building TCP & UDP Servers with Node JS",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js"
+}
